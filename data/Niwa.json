@@ -3,8 +3,8 @@
     "name": "Niwa",
     "author": "Teno",
     "creators": ["Teno", "MrGM", "Aranda", "Titoalper", "KrazyGFX", "BeClan", "Asu", "Pedro", "Peng", "Blaze", "Genoxide"],
-    "verifier": "Z/lla",
-    "verification": "https://youtu.be/dupKE5HPMBs",
+    "verifier": "Marcel",
+    "verification": "https://www.youtube.com/watch?v=ehNTyCz3xYU&pp=0gcJCS4MAYcqIYzv",
     "percentToQualify": 58,
     "password": "Free To Copy",
     "records": [
@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=FZYh6lPymJ0&pp=ygURdHJ1c3QgbWUgYnJvIG1lbWU%3D",
             "percent": 100,
             "hz": 240
-        }
+        },
+        {
+            "user": "Z/lla",
+            "link": "https://youtu.be/dupKE5HPMBs",
+            "percent": 100,
+            "hz": 240            
+        }        
     ]
 }

@@ -8,6 +8,12 @@
     "percentToQualify": "47",
     "password": "618203",
     "records": [
+         {
+            "user": "Marcel",
+            "link": "https://www.youtube.com/watch?v=2xFH8BAjoao",
+            "percent": 100,
+            "hz": 240            
+        },       
         {
             "user": "Z/lla",
             "link": "https://www.youtube.com/watch?v=FZYh6lPymJ0&pp=ygURdHJ1c3QgbWUgYnJvIG1lbWU%3D",
